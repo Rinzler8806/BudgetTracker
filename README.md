@@ -14,4 +14,4 @@ When brought back online:
 
 Please visit the following address to update your use the Budget Tracker. https://fathomless-sea-54648.herokuapp.com/
 
-![](/assets/herokusite.png)
+![](herokusite.png)
