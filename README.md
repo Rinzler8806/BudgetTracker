@@ -12,6 +12,6 @@ When brought back online:
 
   * Offline entries should be added to tracker.
 
-Please visit the following address to update your use the Budget Tracker. https://fathomless-sea-54648.herokuapp.com/
+Please visit the following address to update your use the Budget Tracker. https://budgettracker916.herokuapp.com/
 
 ![](herokusite.png)
